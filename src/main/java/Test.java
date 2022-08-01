@@ -6,5 +6,6 @@ public class Test {
         System.out.println("hot-fix commit1");
         System.out.println("推送");
         System.out.println("推送2");
+        System.out.println("远程库更新");
     }
 }
